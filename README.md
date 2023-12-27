@@ -32,7 +32,7 @@
 
 </details>
 
-<!-- TODO: use more emojis https://emojipedia.org/building-construction  -->
+<!-- TODO: check out https://github.com/jaywcjlove/awesome-mac  -->
 <!-- TODO: use more funny words https://www.slangthesaurus.com/synonyms/excited  -->
 
 ## 💽 Software
@@ -50,6 +50,7 @@
 | [ShiftIt](https://github.com/fikovnik/ShiftIt)   ![oss]                        | Allows to change window size and position via shortcuts.                                 | ![shiftit](https://camo.githubusercontent.com/36e3010c2161e2ebafaac4dad0e49029bb3faa63913c34a0c350c2a0b0a86078/68747470733a2f2f7261772e6769746875622e636f6d2f66696b6f766e696b2f536869667449742f646576656c6f702f617274776f726b2f536869667449742e706e67) |
 | [Dozer](https://github.com/Mortennn/Dozer)       ![oss]                        | Hides macOS menu bar icons.                                                              | ![dozer](https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif)                                                                                                                                                                                  |
 | [Alfred](https://www.alfredapp.com)              ![oss]                        | Alternative to .                                                                         | ![alfred5](https://www.alfredapp.com/media/pages/home-v5/alfred-results.png)                                                                                                                                                                           |
+| [iStat Menus](https://bjango.com/mac/istatmenus/) ![commercial]                |                                                                                          |                                                                                                                                                                                                                                                        |
 | [TripMode](https://tripmode.ch)                  ![commercial]                 | Data usage tracker and limiter - helpful when abroad and/or using a mobile hotspot.      | ![trip](./assets/automatically-connect.png.webp)                                                                                                                                                                                                       |
 | [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins) ![oss] | QuickLook plugins for various file formats.                                              |                                                                                                                                                                                                                                                        |
 |                                                                                |                                                                                          |                                                                                                                                                                                                                                                        |
@@ -110,7 +111,9 @@
 
 ## 🛠️ Hardware
 
-tba
+- 🖥️ Computer: _iMac M1 24" (2021)_
+- 📷 Camera: _FujiFilm X-T30 ii_
+- 📓 Notetaking: _Onyx Boox Note Air 2_
 
 <!-- ### Home Improvement Tools
 
