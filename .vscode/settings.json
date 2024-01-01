@@ -1,3 +1,12 @@
 {
     "markdown.extension.toc.levels": "1..4",
+    "[markdown]": {
+        "editor.rulers": [
+            79
+        ],
+        // "editor.wordWrap": "bounded",
+    },
+    "cSpell.words": [
+        "Clipy"
+    ],
 }

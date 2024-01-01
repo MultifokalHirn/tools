@@ -82,6 +82,7 @@
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------|
 | [Handbrake](https://handbrake.fr)  ![oss]  | You want to convert so media files? Use this. Its like a GUI for `ffmpeg`.                          | ![handbrake](assets/handbrake.png)          |
 | [ImageOptim](https://imageoptim.com)![oss] | Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality | ![imageoptim](assets/ImageOptim-app@2x.png) |
+| [Tunnelblick](https://tunnelblick.net/)    |                                                                                                     |                                             |
 |                                            |                                                                                                     |                                             |
 
 ### 📱 Mobile (iOS)
@@ -111,6 +112,8 @@
 
 ## 🛠️ Hardware
 
+`TODO`
+
 - 🖥️ Computer: _iMac M1 24" (2021)_
 - 📷 Camera: _FujiFilm X-T30 ii_
 - 📓 Notetaking: _Onyx Boox Note Air 2_
@@ -132,6 +135,7 @@
 <!--
 
 TODO/Ideas
+- https://git.herrbischoff.com/awesome-macos-command-line/about/
 - Add a section for "Tools I want to buy"
 - Add a section for "Tools I have bought but don't use" (?)
 - maybe create separate repo for stuff I like (so movies, music etc.)
