@@ -10,18 +10,6 @@
 
 <!-- tag definitions -->
 <!-- usage: ![mytag]  https://shields.io/badges -->
-<style type="text/css">
-    img[alt$="-preview"] {
-        max-width: 250px;
-        height: auto;
-        align: center;
-    }
-    img[alt$="-badge"]{
-      height: 15px;
-      width: auto;
-      /* display: block; */
-    }
-</style>
 
 [oss-badge]: https://img.shields.io/badge/pricing-open--source-green
 [free-badge]: https://img.shields.io/badge/pricing-free-yellow
@@ -148,6 +136,25 @@ TODO/Ideas
 
 funkengrooven
 -->
+
 ## License
 
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="drawing" width="100"/></a>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style type="text/css">
+        img[alt$="-preview"] {
+            max-width: 250px;
+            height: auto;
+            align: center;
+        }
+        img[alt$="-badge"]{
+          height: 15px;
+          width: auto;
+        }
+      </style>
+      <p></p>
+    </div>
+  </foreignObject>
+</svg>
