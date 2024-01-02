@@ -1,3 +1,4 @@
+
 <!-- markdownlint-disable -->
 
 <p align="center">
@@ -8,6 +9,7 @@
 
 <!-- markdownlint-restore -->
 
+![project-status](https://img.shields.io/badge/Status-%20Under%20Construction-yellow.svg)
 <!-- tag definitions -->
 <!-- usage: ![mytag]  https://shields.io/badges -->
 
@@ -17,6 +19,7 @@
 
 <h2>📒 Contents</h2>
 
+- [📟 Devices](#-devices)
 - [🖥️ Software](#️-software)
   - [🖱️ macOS Enhancements](#️-macos-enhancements)
   - [🧑‍💻 Software Development](#-software-development)
@@ -25,16 +28,22 @@
   - [🤔 Want to try](#-want-to-try)
 - [📱 Apps (iOS)](#-apps-ios)
 - [🌐 Around the Web](#-around-the-web)
-- [🛠️ Hardware](#️-hardware)
-- [License](#license)
 
-<!-- TODO: check out https://github.com/jaywcjlove/awesome-mac  -->
 <!-- TODO: use more funny words https://www.slangthesaurus.com/synonyms/excited  -->
+
+## 📟 Devices
+
+`TODO`
+
+- 🖥️ Computer: _iMac M1 24" (2021)_
+- 📷 Camera: _FujiFilm X-T30 ii_
+- 📓 Notetaking: _Onyx Boox Note Air 2_
 
 ## 🖥️ Software
 
 ### 🖱️ macOS Enhancements
 
+<!-- TODO: check out https://github.com/jaywcjlove/awesome-mac  -->
 <!-- ![macos-badge] -->
 
 | Name                                                                                 | Description                                                                              | Image                                                                                                                                                                                                                                                                                            |
@@ -104,14 +113,6 @@
 | [slangthesaurus](https://www.slangthesaurus.com/synonyms/tool)  ![free-badge] |             |       |
 |                                                                               |             |       |
 
-## 🛠️ Hardware
-
-`TODO`
-
-- 🖥️ Computer: _iMac M1 24" (2021)_
-- 📷 Camera: _FujiFilm X-T30 ii_
-- 📓 Notetaking: _Onyx Boox Note Air 2_
-
 <!-- ### Home Improvement Tools
 
 | Name   | Description           | Image | Tags |
@@ -137,7 +138,7 @@ TODO/Ideas
 funkengrooven
 -->
 
-## License
+<h2> License </h2>
 
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="drawing" width="100"/></a>
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
