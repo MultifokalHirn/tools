@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- github-banner-start -->
-    <h1>Tools I use</h1>
+    <h1>Tools</h1>
   <!-- github-banner-end -->
 </p>
 
@@ -88,30 +88,31 @@
 | [Tunnelblick](https://tunnelblick.net/)          |                                                                                                     |                                             |
 |                                                  |                                                                                                     |                                             |
 
+<!-- 
 ### 🤔 Want to try
 
 | Name                                                                  | Description | Image |
 |-----------------------------------------------------------------------|-------------|-------|
 | [Iconology](https://github.com/liamrosenfeld/Iconology)  ![oss-badge] |             |       |
 | [`tbls`](https://github.com/k1LoW/tbls)                               |             |       |
-|                                                                       |             |       |
+|                                                                       |             |       |  | --> 
 
 ## 📱 Apps (iOS)
 
-| Name                                                                                    | Description                                                                                                                                              | Image |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| [Things 3 (iOS)](https://culturedcode.com/things/iphone/appstore/)  ![commercial-badge] | Mobile version that syncs with the desktop version. For me the key feature is the widget, which shows Today's Tasks and has a button to add a new To Do. |       |
-| [Carrot Weather](https://www.meetcarrot.com/weather/)               ![commercial-badge] | Weather app that is also funny.                                                                                                                          |       |
-|                                                                                         |                                                                                                                                                          |       |
+| Name                                                                                    | Description                                                                                                                                              | Image                                                                                  |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Things 3 (iOS)](https://culturedcode.com/things/iphone/appstore/)  ![commercial-badge] | Mobile version that syncs with the desktop version. For me the key feature is the widget, which shows Today's Tasks and has a button to add a new To Do. | ![thing3](https://images.inc.com/uploaded_files/inlineimage/630x0/IMG_6356_57517.jpeg) |
+| [Carrot Weather](https://www.meetcarrot.com/weather/)               ![commercial-badge] | Weather app that is also funny.                                                                                                                          | ![carrot](https://www.meetcarrot.com/weather/img/promo-bannerad.png)                   |
+|                                                                                         |                                                                                                                                                          |                                                                                        |
 
 <!--|            | Shortcuts     automation app. |       | ![ios] | -->
 
 ## 🌐 Around the Web
 
-| Name                                                                          | Description | Image |
-|-------------------------------------------------------------------------------|-------------|-------|
-| [slangthesaurus](https://www.slangthesaurus.com/synonyms/tool)  ![free-badge] |             |       |
-|                                                                               |             |       |
+| Name                                                                              | Description                                                                                                                 | Image                                             |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| [slangthesaurus.com](https://www.slangthesaurus.com/synonyms/tool)  ![free-badge] | Yoked language extensions to bamboozle and confoozle the plebes, flex skilz mid convo, and smooth your verbal _ForSerious_! | ![slang](https://www.slangthesaurus.com/logo.svg) |
+|                                                                                   |
 
 <!-- ### Home Improvement Tools
 
@@ -141,7 +142,7 @@ funkengrooven
 <h2> License </h2>
 
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="drawing" width="100"/></a>
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="https://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style type="text/css">
@@ -158,4 +159,4 @@ funkengrooven
       <p></p>
     </div>
   </foreignObject>
-</svg>
+</svg> -->
