@@ -19,25 +19,23 @@
 
 <h2>📒 Contents</h2>
 
-- [📟 Devices](#-devices)
-- [🖥️ Software](#️-software)
-  - [🖱️ macOS Enhancements](#️-macos-enhancements)
-  - [🧑‍💻 Software Development](#-software-development)
-  - [🗒️ Productivity](#️-productivity)
-  - [🤖 Misc](#-misc)
-  - [🤔 Want to try](#-want-to-try)
-- [📱 Apps (iOS)](#-apps-ios)
-- [🌐 Around the Web](#-around-the-web)
+1. [🖥️ Software](#️-software)
+   1. [🖱️ macOS Enhancements](#️-macos-enhancements)
+   2. [🧑‍💻 Software Development](#-software-development)
+   3. [🗒️ Productivity](#️-productivity)
+   4. [🤖 Misc](#-misc)
+2. [📱 Apps (iOS)](#-apps-ios)
+3. [🌐 Around the Web](#-around-the-web)
 
 <!-- TODO: use more funny words https://www.slangthesaurus.com/synonyms/excited  -->
 
-## 📟 Devices
+<!-- ## 📟 Devices
 
 `TODO`
 
 - 🖥️ Computer: _iMac M1 24" (2021)_
 - 📷 Camera: _FujiFilm X-T30 ii_
-- 📓 Notetaking: _Onyx Boox Note Air 2_
+- 📓 Notetaking: _Onyx Boox Note Air 2_ -->
 
 ## 🖥️ Software
 
@@ -46,17 +44,20 @@
 <!-- TODO: check out https://github.com/jaywcjlove/awesome-mac  -->
 <!-- ![macos-badge] -->
 
-| Name                                                                                 | Description                                                                              | Image                                                                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Clipy](https://github.com/Clipy/Clipy)          ![oss-badge]                        | Clipboard manager: `ctrl-shift-v` and you see all the stuff you copied to the clipboard. | ![clipy](https://camo.githubusercontent.com/31f607d2a5e474e8eae4fa4f8bf3a301339900534b6f63bd5e3f52a3c9d0517c/687474703a2f2f636c6970792d6170702e636f6d2f696d672f73637265656e73686f74312e706e67)                                                                                                   |
-| [AltTab](https://github.com/lwouis/alt-tab-macos)![oss-badge]                        | Alternative app switcher that previews the windows like in some other OSes.              | ![alttab](https://alt-tab-macos.netlify.app/public/demo/frontpage.jpg)                                                                                                                                                                                                                           |
-| [ShiftIt](https://github.com/fikovnik/ShiftIt)   ![oss-badge]                        | Allows to change window size and position via shortcuts.                                 | <div><img src="https://camo.githubusercontent.com/36e3010c2161e2ebafaac4dad0e49029bb3faa63913c34a0c350c2a0b0a86078/68747470733a2f2f7261772e6769746875622e636f6d2f66696b6f766e696b2f536869667449742f646576656c6f702f617274776f726b2f536869667449742e706e67" alt="sh -preview" width="100"/></div> |
-| [Dozer](https://github.com/Mortennn/Dozer)       ![oss-badge]                        | Hides macOS menu bar icons.                                                              | ![dozer](https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif)                                                                                                                                                                                                                            |
-| [Dyet](https://inchman.gumroad.com/l/Dyet)              ![free-badge]                        | Folder Colors based on Tags                                                                         |                                                                                                                                                                                                                      |
-| [iStat Menus](https://bjango.com/mac/istatmenus/) ![commercial-badge]                |                                                                                          |                                                                                                                                                                                                                                                                                                  |
-| [TripMode](https://tripmode.ch)                  ![commercial-badge]                 | Data usage tracker and limiter - helpful when abroad and/or using a mobile hotspot.      | ![trip](./assets/automatically-connect.png.webp)                                                                                                                                                                                                                                                 |
-| [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins) ![oss-badge] | QuickLook plugins for various file formats.                                              |                                                                                                                                                                                                                                                                                                  |
-|                                                                                      |                                                                                          |                                                                                                                                                                                                                                                                                                  |
+| Name                                                                     | Description                                                                              | Image                                                                                      |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Clipy](https://github.com/Clipy/Clipy)          ![oss-badge]            | Clipboard manager: `ctrl-shift-v` and you see all the stuff you copied to the clipboard. | <div> <img src="https://clipy-app.com/img/screenshot1.png" alt="clipy" width="400"/></div> |
+| [AltTab](https://github.com/lwouis/alt-tab-macos)![oss-badge]            | Alternative app switcher that previews the windows like in some other OSes.              | ![alttab](https://alt-tab-macos.netlify.app/public/demo/frontpage.jpg)                     |
+| [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)   ![oss-badge] | Allows to change window size and position via shortcuts.                                 |                                                                                            |
+
+| [Dozer](https://github.com/Mortennn/Dozer)       ![oss-badge]                                 | Hides macOS menu bar icons.                                                                                              | ![dozer](https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif)                                                                 |
+| [Dyet](https://inchman.gumroad.com/l/Dyet)              ![free-badge]                         | Folder Colors based on Tags                                                                                              | ![trip](./assets/dyet.png)                                                                                                            |
+| [iStat Menus](https://bjango.com/mac/istatmenus/) ![commercial-badge]                         |                                                                                                                          |
+| [FavMan](https://github.com/shy-neon/Favman/) ![oss-badge]                                    | Favman allows you to quickly and easily customize favicons, by just dropping in your custom icons.                       | ![favman](https://github.com/shy-neon/Favman/blob/2b12ea3f0c144c6667d5ba87b9c211055c73fda6/images/main.gif?raw=true)                  |
+| [TripMode](https://tripmode.ch)                  ![commercial-badge]                          | Data usage tracker and limiter - helpful when abroad and/or using a mobile hotspot.                                      | ![trip](./assets/automatically-connect.png.webp)                                                                                      |
+| [RightMenu Master](https://wangchujiang.com/rightmenu-master/)                  ![free-badge] | RightMenu Master is a powerful Finder right-click menu enhancement tool designed to improve the efficiency of Mac users. | ![rm](https://github.com/jaywcjlove/rightmenu-master/blob/8621ac407ea1646a0de10d447d77014f9d4b9037/assets/screenshots-1.png?raw=true) |
+| [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins) ![oss-badge]          | QuickLook plugins for various file formats.                                                                              |                                                                                                                                       |
+|                                                                                               |                                                                                                                          |                                                                                                                                       |
 
 <!-- | Apple Keychain                                    | Password manager by Apple.                                                          |                                                                                                                                                                                                                                                        | ![commercial-badge] |
 | Apple HideMyEmail                                 | Apple's email privacy feature.                                                      |                                                                                                                                                                                                                                                        | ![commercial-badge] | -->
@@ -73,17 +74,18 @@
 
 ### 🗒️ Productivity
 
-| Name                                                            | Description                                                                                                                                                                                                                                                           | Image |
-|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| [Things 3](https://culturedcode.com/things/)![commercial-badge] | For me, hands-down the best Task manager. Being able to just hit `ctrl-space` and type to add a new To Do still feels, after years, like a super power.                                                                                                               |       |
-| [Spark 2](https://sparkmailapp.com/spark2)  ![free-badge]       | Email client - I think I chose this one years ago because I could customize the keyboard-shortcuts.. Have been very happy with it for years.. (I could not find my way around their new version - I assume I was not the only one since they keep the old one around) |       |
-|                                                                 |                                                                                                                                                                                                                                                                       |       |
+| Name                                                            | Description                                                                                                                                             | Image |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| [Things 3](https://culturedcode.com/things/)![commercial-badge] | For me, hands-down the best Task manager. Being able to just hit `ctrl-space` and type to add a new To Do still feels, after years, like a super power. |       |
+| [Tailscale](https://tailscale.com)       ![free-badge]          |                                                                                                                                                         |       |
+|                                                                 |                                                                                                                                                         |       |
 
 ### 🤖 Misc
 
 | Name                                             | Description                                                                                         | Image                                       |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------|
 | [Handbrake](https://handbrake.fr)  ![oss-badge]  | You want to convert so media files? Use this. Its like a GUI for `ffmpeg`.                          | ![handbrake](assets/handbrake.png)          |
+| [IINA](https://github.com/iina/iina)![oss-badge] | Video player                                                                                        | ![iina](https://iina.io/images/sc-sky.png)  |
 | [ImageOptim](https://imageoptim.com)![oss-badge] | Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality | ![imageoptim](assets/ImageOptim-app@2x.png) |
 | [Tunnelblick](https://tunnelblick.net/)          |                                                                                                     |                                             |
 |                                                  |                                                                                                     |                                             |
@@ -95,7 +97,7 @@
 |-----------------------------------------------------------------------|-------------|-------|
 | [Iconology](https://github.com/liamrosenfeld/Iconology)  ![oss-badge] |             |       |
 | [`tbls`](https://github.com/k1LoW/tbls)                               |             |       |
-|                                                                       |             |       |  | --> 
+|                                                                       |             |       |  | --> |
 
 ## 📱 Apps (iOS)
 
